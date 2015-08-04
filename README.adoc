@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [ide]
 projects: []
 ---
 :spring_boot_version: 1.2.5.RELEASE
@@ -10,7 +10,8 @@ projects: []
 :toc:
 :icons: font
 :source-highlighter: prettify
-:project_id: gs-sts
+:project_id: gs-intellij-idea
+
 This guide walks you through using IntelliJ IDEA to build one of the Getting Started guides.
 
 == What you'll build
