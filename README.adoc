@@ -47,3 +47,9 @@ IntelliJ IDEA will create a project with all the code from the guide already ent
 In case you'd like to start with an empty project and copy-and-paste your way through the guide, create a new *Maven* or *Gradle* project in the *Project Wizard*:
 
 image::images/spring_guide_new_project.png[Project Wizard]
+
+== See Also
+
+The following guide may also be helpful:
+
+* https://spring.io/guides/gs/sts/[Working a Getting Started guide with STS]
