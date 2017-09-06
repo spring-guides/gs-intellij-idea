@@ -34,6 +34,12 @@ When you're done, go ahead and launch IntelliJ IDEA.
 
 == Importing a Getting Started guide
 
+To import an existing project you need some code, so clone or copy one of the Getting Started guides, e.g. the https://spring.io/guides/gs/rest-service/[REST Service] guide:
+
+```
+$ git clone https://github.com/spring-guides/gs-rest-service.git
+```
+
 With IntelliJ IDEA up and running, click **Import Project** on the **Welcome Screen**, or **File | Open** on the main menu:
 
 image::images/spring_guide_welcome_import.png[Import Project]
@@ -42,7 +48,9 @@ In the pop-up dialog make sure to select either {gs-maven}[Maven]'s **pom.xml** 
 
 image::images/spring_guide_select_gradle_file.png[Select File or Directory to Import]
 
-IntelliJ IDEA will create a project with all the code from the guide already entered.
+IntelliJ IDEA will create a project with all the code from the guide ready to run.
+
+== Creating a Project from Scratch
 
 In case you'd like to start with an empty project and copy-and-paste your way through the guide, create a new *Maven* or *Gradle* project in the *Project Wizard*:
 
