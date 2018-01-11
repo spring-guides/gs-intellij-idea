@@ -26,8 +26,8 @@ You'll pick a Spring guide and import it into IntelliJ IDEA. Then you can read t
  - {jdk}[JDK 6] or later
 
 
-== Installing IntelliJ IDEA
-If you don't have IntelliJ IDEA installed yet, visit the link up above. From there, you can download a copy for your platform. To install  it simply
+== Installing IntelliJ IDEA 
+If you don't have IntelliJ IDEA (Ultimate Edition) installed yet, visit the link up above. From there, you can download a copy for your platform. To install  it simply
 unpack the downloaded archive.
 
 When you're done, go ahead and launch IntelliJ IDEA.
