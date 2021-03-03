@@ -1,12 +1,9 @@
----
-tags: [ide]
-projects: []
----
 :spring_boot_version: 1.2.5.RELEASE
 :jdk: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 :gs-maven: link:/guides/gs/maven
 :gs-gradle: link:/guides/gs/gradle
 :gs-consuming-rest: link:/guides/gs/consuming-rest
+:images: https://raw.githubusercontent.com/spring-guides/gs-intellij-idea/master/images
 :toc:
 :icons: font
 :source-highlighter: prettify
@@ -42,11 +39,11 @@ $ git clone https://github.com/spring-guides/gs-rest-service.git
 
 With IntelliJ IDEA up and running, click **Import Project** on the **Welcome Screen**, or **File | Open** on the main menu:
 
-image::images/spring_guide_welcome_import.png[Import Project]
+image::{images}/spring_guide_welcome_import.png[Import Project]
 
 In the pop-up dialog make sure to select either {gs-maven}[Maven]'s **pom.xml** or {gs-gradle}[Gradle]'s **build.gradle** file under the **complete** folder:
 
-image::images/spring_guide_select_gradle_file.png[Select File or Directory to Import]
+image::{images}/spring_guide_select_gradle_file.png[Select File or Directory to Import]
 
 IntelliJ IDEA will create a project with all the code from the guide ready to run.
 
@@ -54,7 +51,7 @@ IntelliJ IDEA will create a project with all the code from the guide ready to ru
 
 In case you'd like to start with an empty project and copy-and-paste your way through the guide, create a new *Maven* or *Gradle* project in the *Project Wizard*:
 
-image::images/spring_guide_new_project.png[Project Wizard]
+image::{images}/spring_guide_new_project.png[Project Wizard]
 
 == See Also
 
